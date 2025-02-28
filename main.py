@@ -59,3 +59,5 @@ def get_job_emails():
         send_whatsapp_message(job_alert) 
 
 get_job_emails()
+
+
